@@ -1,6 +1,6 @@
 # RemBG — Background Removal & Image Enhancement
 
-<p align="center">
+<p align="center"
   A lightweight AI-powered tool to remove image backgrounds and enhance quality.<br/>
   Built as a single-file Streamlit application.
 </p>
@@ -17,7 +17,7 @@
 ## Demo
 
 <p align="center">
-  <img src="assets/before.jpg" width="45%"/>
+  <img src="assets/Before.jpg" width="45%"/>
   <img src="assets/after.png" width="45%"/>
 </p>
 
