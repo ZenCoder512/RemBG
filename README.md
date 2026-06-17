@@ -17,7 +17,7 @@
 ## Demo
 
 <p align="center">
-  <img src="assets/before.png" width="45%"/>
+  <img src="assets/before.jpg" width="45%"/>
   <img src="assets/after.png" width="45%"/>
 </p>
 
