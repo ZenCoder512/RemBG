@@ -1,16 +1,42 @@
-# rembg (Background removal and enhancement)
-An advanced background remover and image enhancer that automatically removes unwanted backgrounds and improves image clarity, making visuals more attractive and professional
-# Open Live Preview
-<p align="left">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Live%20Preview-Click%20Now-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0f172a"/>
-  </a>
+# RemBG — Background Removal & Image Enhancement
+
+<p align="center">
+  A lightweight AI-powered tool to remove image backgrounds and enhance quality.<br/>
+  Built as a single-file Streamlit application.
 </p>
 
-## 🚀 Quick Start
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-black?style=for-the-badge"/>
+</p>
+
+---
+
+## Demo
+
+<p align="center">
+  <img src="assets/before.png" width="45%"/>
+  <img src="assets/after.png" width="45%"/>
+</p>
+
+---
+
+## Features
+
+- Background removal using AI (`rembg`)
+- Image enhancement (sharpness, contrast)
+- Clean and minimal UI
+- Side-by-side preview
+- Download processed image
+- Single-file implementation
+
+---
+
+## Installation
 
 ```bash
-git clone https://github.com/cloudCoder512/rembg.git
-cd rembg
+git clone https://github.com/ZenCoder512/RemBG.git
+cd RemBG
 pip install -r requirements.txt
-python app.py
