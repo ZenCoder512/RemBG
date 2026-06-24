@@ -37,6 +37,6 @@
 ## Installation
 
 ```bash
-git clone https://github.com/ZenCoder512/RemBG.git
+git clone https://github.com/logicforge512/RemBG.git
 cd RemBG
 pip install -r requirements.txt
